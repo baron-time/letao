@@ -1,4 +1,4 @@
-var db = require('./db.js');
+var db = require('./db.js')
 
 function Cart(cart) {
   this.id = cart.id;

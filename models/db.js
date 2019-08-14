@@ -1,6 +1,6 @@
 ﻿'use strict';
 
-const mysql = require('mysql');
+const mysql = require('mysql')
 
 const pool  = mysql.createPool({
     host : '127.0.0.1',
